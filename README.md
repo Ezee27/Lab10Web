@@ -35,7 +35,6 @@ lab10_php_oop/
 ├── form_input.php
 ├── config.php
 ├── database.php
-└── README.md
 ```
 
 ---
@@ -49,7 +48,7 @@ lab10_php_oop/
 Buat folder baru pada direktori web server:
 
 ```
-htdocs/lab10_php_oop
+htdocs/lab10_php_web
 ```
 
 ---
@@ -254,4 +253,19 @@ CREATE TABLE mahasiswa (
 
 # 📎 **Screenshots**
 
-> Tambahkan screenshot hasil tampilan mobil.php, form_input.php, dan phpMyAdmin.
+### Hasil tampilan form_input untuk mengisi Nim< Nama, Alamat di browser nya:
+
+---
+
+<img width="861" height="242" alt="image" src="https://github.com/user-attachments/assets/88f0f976-2be9-45c5-803e-8b4d9cd0e87d" />
+
+
+---
+
+### Hasil tampilan form tersimpan di database PhpMyAdmin:
+
+---
+
+<img width="702" height="260" alt="image" src="https://github.com/user-attachments/assets/cf00bdc2-9cdc-4ab6-9945-266c65895cdf" />
+
+---
