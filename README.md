@@ -4,10 +4,6 @@
 
 ---
 
-# Praktikum 8: PHP dan Database MySQL
-
----
-
 **Mata Kuliah:** Pemrograman Web1
 
 **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom.
